@@ -1,0 +1,326 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: Default Account for Firebase
+# Property: jma-movers-f6c36
+# ----------------------------------------
+# How are active users trending?
+# Start date: 20240709
+# End date: 20240805
+Nth day,30 days,7 days,1 day
+0000,47,10,2
+0001,45,11,2
+0002,46,12,3
+0003,44,10,0
+0004,38,9,1
+0005,38,9,1
+0006,39,8,2
+0007,38,7,1
+0008,35,6,0
+0009,32,4,1
+0010,31,5,1
+0011,30,6,1
+0012,29,7,1
+0013,32,8,3
+0014,28,7,0
+0015,26,9,2
+0016,27,10,2
+0017,27,10,2
+0018,28,11,3
+0019,28,11,0
+0020,31,11,3
+0021,32,12,1
+0022,30,12,2
+0023,30,10,0
+0024,33,12,4
+0025,33,9,0
+0026,34,12,3
+0027,33,9,0
+
+#  
+# Start date: 20240709
+# End date: 20240805
+Nth day,1.0.0
+0000,0
+0001,1
+0002,1
+0003,0
+0004,1
+0005,1
+0006,0
+0007,0
+0008,0
+0009,1
+0010,1
+0011,1
+0012,1
+0013,0
+0014,0
+0015,1
+0016,1
+0017,1
+0018,2
+0019,0
+0020,0
+0021,0
+0022,1
+0023,0
+0024,3
+0025,0
+0026,0
+0027,0
+
+#  
+# Start date: 20240709
+# End date: 20240805
+App,Version,Status
+5991977209,1.0.0,Successful
+
+#  
+# Start date: 20240805
+# End date: 20240805
+App,Crash-free users
+5993533131,0
+
+# Start date: 20240804
+# End date: 20240804
+App,Crash-free users
+5993533131,1
+
+#  
+# Start date: 20240709
+# End date: 20240805
+Nth day,Average engagement time
+0000,0
+0001,357.5
+0002,146.66666666666666
+0003,0
+0004,90
+0005,332
+0006,0
+0007,0
+0008,0
+0009,355
+0010,95
+0011,16
+0012,168
+0013,0
+0014,0
+0015,0.5
+0016,49
+0017,0.5
+0018,30
+0019,0
+0020,0
+0021,0
+0022,164
+0023,0
+0024,34.25
+0025,0
+0026,17.666666666666668
+0027,0
+
+# Start date: 20240709
+# End date: 20240805
+Nth day,Engaged sessions per user
+0000,0
+0001,0
+0002,0.6666666666666666
+0003,0
+0004,1
+0005,1
+0006,0
+0007,0
+0008,0
+0009,1
+0010,1
+0011,1
+0012,1
+0013,0
+0014,0
+0015,0
+0016,1
+0017,0
+0018,1
+0019,0
+0020,0
+0021,0
+0022,1
+0023,0
+0024,1
+0025,0
+0026,0.3333333333333333
+0027,0
+
+# Start date: 20240709
+# End date: 20240805
+Nth day,Average engagement time per session
+0000,0
+0001,357.5
+0002,146.66666666666666
+0003,0
+0004,45
+0005,332
+0006,0
+0007,0
+0008,0
+0009,355
+0010,95
+0011,16
+0012,84
+0013,0
+0014,0
+0015,0.5
+0016,49
+0017,0.5
+0018,15
+0019,0
+0020,0
+0021,0
+0022,82
+0023,0
+0024,22.833333333333332
+0025,0
+0026,17.666666666666668
+0027,0
+
+#  
+# Start date: 20240625
+# End date: 20240805
+Cohort,Users
+0000,1
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,0
+0028,0
+0029,0
+0030,0
+0031,0
+0032,0
+0033,0
+0034,0
+0035,0
+0036,0
+0037,0
+0038,0
+0039,0
+0040,0
+0041,0
+
+# How well do you retain your users?
+# Start date: 20240623
+# End date: 20240803
+Date,Week 0,Week 1,Week 2,Week 3,Week 4,Week 5
+Jun 23 - Jun 29,7
+Jun 30 - Jul 6,4
+Jul 7 - Jul 13,4
+Jul 14 - Jul 20,3
+Jul 21 - Jul 27,7
+Jul 28 - Aug 3,6
+
+# Where does your LTV come from?
+# Start date: 20240709
+# End date: 20240805
+First user primary channel group (Default Channel Group),LTV
+
+
+#  
+# Start date: 20240709
+# End date: 20240805
+Page title and screen class,Views
+Jma Movers,31
+MainActivity,19
+
+#  
+# Start date: 20240709
+# End date: 20240805
+Event name,Event count
+session_start,53
+user_engagement,34
+page_view,31
+first_visit,22
+screen_view,19
+
+# What are your top conversions?
+# Start date: 20240709
+# End date: 20240805
+Event name,Key events
+
+
+#  
+# Start date: 20240709
+# End date: 20240805
+Nth day,Total revenue
+
+
+# Start date: 20240709
+# End date: 20240805
+Nth day,Purchase revenue
+
+
+# Start date: 20240709
+# End date: 20240805
+Nth day,Total ad revenue
+
+
+#  
+# Start date: 20240709
+# End date: 20240805
+Nth day,Average purchase revenue per user
+
+
+#  
+# Start date: 20240709
+# End date: 20240805
+Country ID,Users
+FR,1
+IN,2
+NG,15
+NL,4
+UA,1
+US,8
+
+# Start date: 20240709
+# End date: 20240805
+Country,Users
+NG,15
+US,8
+NL,4
+IN,2
+FR,1
+UA,1
+
+#  
+# Start date: 20240709
+# End date: 20240805
+Device model,Users
+BD3,1
+POT-LX1A,1
+SM-A022F,1
+SM-G9980,1
+X6516,1
+X655C,1
+X6716B,1
